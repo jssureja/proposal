@@ -1,2 +1,1 @@
-Name: Jimit Sureja
-Temple Email: tut49523
+Hello!  This is my proposal for the final project.
